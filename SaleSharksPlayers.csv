@@ -1,0 +1,357 @@
+PlayerID,Player,DateOfBirth,PlaceOfBirth,DateSigned,OldClub
+1110,Tony Buckley,18/09/1980,Cork,01/07/2011,26
+1111,Jim Mallinder,16/03/1966,Halifax,07/07/1989,100
+1112,Jos Baxendell,12/03/1972,Cheshire,04/03/1993,54
+1113,Pat Sanderson,19/09/1977,Chester ,14/01/1997,100
+1114,Dion O'Cuinneagain,24/05/1972,Cape Town,04/04/1997,43
+1115,Paul Smith,28/03/1978,Nantwich,12/05/1997,100
+1116,Matt Moore,02/04/1976,Frimley,22/05/1997,100
+1117,Adrian Hadley,01/03/1963,Cardiff,31/05/1997,23
+1118,Tasesa Lavea,01/10/1974,Kings Lynn,03/06/1997,67
+1119,Dave Baldwin,03/09/1965,Ilkley,27/06/1997,100
+1120,Andy Morris,01/09/1971,Blackburn,29/06/1997,100
+1121,Phil Winstanley,16/09/1968,Orrell,01/07/1997,100
+1122,Simon Mannix,10/08/1971,Lower Hutt,03/07/1997,48
+1123,Simon Raiwalui,08/09/1974,Auckland,25/09/1997,39
+1124,Alex Sanderson,07/10/1979,Chester,03/05/1998,100
+1125,Jan Machá?ek,15/02/1972,Prague,17/06/1998,21
+1126,Steve Hanley,11/06/1979,Whitehaven,24/06/1998,100
+1127,Phil Greening,03/10/1975,Gloucster,02/07/1998,6
+1128,Pete Anglesea,30/10/1971,Bolton,06/07/1998,100
+1129,Steve Davidson,25/04/1976,Whitehaven,30/07/1998,100
+1130,Richard Wilks,08/10/1977,Manchester,15/03/1999,100
+1131,Guy Manson-Bishop,03/08/1973,Dundee,03/05/1999,60
+1132,Bernard Jackman,05/05/1976,Tullow,31/05/1999,68
+1133,Byron Hayward,22/02/1969,Cardiff,06/06/1999,6
+1134,Andy Whittle,21/07/1973,MAnchester,06/06/1999,100
+1135,Nicky Little,13/09/1976,Tokoroa,02/07/1999,35
+1136,Joe Clark,03/06/1977,Bristol,07/07/1999,12
+1137,Paul Devlin,19/02/1981,Whilston,12/02/2000,100
+1138,Leroy Rivett,17/12/1976,Leicster,18/03/2000,64
+1139,Mel Deane,16/01/1975,London,03/05/2000,27
+1140,Norm Rusk,08/03/1977,Wellington,13/05/2000,39
+1141,Apollo Perelini,16/07/1969,Auckland,15/05/2000,35
+1142,Charlie Hodgson,12/11/1980,Halifax,24/05/2000,100
+1143,Dan Harris,17/05/1977,High Wycombe,30/05/2000,79
+1144,Martin Shaw,02/09/1975,Bishop Auckland,13/06/2000,8
+1145,Rob Appleyard,09/12/1972,Haverfordwest,25/06/2000,18
+1146,Bryan Redpath,02/07/1971,Galashiels,25/06/2000,30
+1147,Adam Black,24/05/1975,Romford,06/07/2000,79
+1148,Anthony Elliott,02/02/1981,Stockton-On-Tees,07/07/2000,100
+1149,Scott Lines,28/07/1973,Kapomga,08/07/2000,52
+1150,Jimmy Moore,27/10/1982,Chester,15/07/2000,100
+1151,Jason Robinson,30/07/1974,Leeds,15/07/2000,5
+1152,Vaughan Going,26/08/1972,Whangarei,25/07/2000,24
+1153,Jon Thiel,31/05/1975,White Rock,20/08/2000,28
+1154,Chris Jones,24/06/1980,Manchester,07/06/2000,10
+1155,Ben Roberts,01/02/1969,Sydney,14/05/2001,75
+1156,Henry Thomas,25/03/1973,Auckland,25/05/2001,100
+1157,Alasdair Dickinson,02/04/1976,Knowsley,01/06/2001,100
+1158,Andy Titterell,10/01/1981,Dartford,03/06/2001,2
+1159,Stuart Turner,22/04/1972,Southport,13/06/2001,14
+1160,Jim Bramhall,20/05/1978,Northampton,15/07/2001,11
+1161,Dean Schofield,19/01/1979,Clayton,19/07/2001,100
+1162,Kevin Yates,06/11/1972,Canada,26/07/2001,5
+1163,Mark Cueto,26/12/1979,Workington,30/07/2001,100
+1164,Iain Fullarton,25/04/1976,Edinburgh,03/08/2001,25
+1165,Magnus Lund,25/06/1983,Manchester,12/02/2002,100
+1166,Matt Parr,29/09/1982,Penrith,12/04/2002,100
+1167,Graeme Bond,21/05/1974,Duke of York Island,06/06/2002,58
+1168,Nick Walshe,01/11/1974,Chiswick,12/06/2002,2
+1169,Barry Stewart,03/06/1976,Edinburgh,15/06/2002,25
+1170,Johnny Roddam,08/12/1981,Barrow-In-Furness,12/07/2002,24
+1171,Richard Wigglesworth,09/06/1983,Blackpool,17/07/2002,100
+1172,Warren Spragg,01/11/1981,Manchester,24/07/2002,100
+1173,Jim Thorp,22/05/1975,Birmingham,07/08/2002,14
+1174,Andy Kyriacou,04/01/1983,Liverpool,24/05/2003,100
+1175,Chris Mayor,19/05/1982,Wigan,27/05/2003,41
+1176,Matt Cairns,31/03/1974,Birkenhead,12/06/2003,2
+1177,Braam van Straaten,28/09/1971,Pretoria,17/06/2003,9
+1178,Andrew Sheridan,01/11/1979,Bromley,17/06/2003,27
+1179,Chris Day,24/06/1983,Blackpool,13/07/2003,100
+1180,Jason White,07/04/1978,Edinburgh,15/07/2003,16
+1181,Mike Hercus,05/06/1979,Falls Church,15/08/2003,78
+1182,Chris Brightwell,27/05/1982,St Helens,25/08/2003,100
+1183,Martin Halsall,25/12/1984,Blackpool,13/09/2003,100
+1184,Ben Lloyd,07/10/1984,Rochdale,23/02/2004,100
+1185,John Carter,16/02/1981,MAnchester,19/03/2004,100
+1186,Ben Foden,22/07/1985,Chester,25/03/2004,100
+1187,Adam Newton,07/09/1984,Manchester,12/04/2004,100
+1188,Jon Bryant,14/10/1976,Aberdare,15/04/2004,38
+1189,Sean Cox,16/01/1985,Lancaster,26/04/2004,100
+1190,Hugh Perrett,06/04/1982,Sydney,03/05/2004,58
+1191,Sebastian Bruno,26/08/1974,Nimes,12/05/2004,46
+1192,Sebastian Bozzi,01/06/1971,Buenos Aires,13/05/2004,49
+1193,Josh Taumalolo,08/07/1976,Tonga,12/06/2004,56
+1194,Sebastien Chabal,08/12/1977,Valence,20/06/2004,76
+1195,Trevor Woodman,04/08/1976,Plymouth,29/06/2004,6
+1196,Pierre Caillet,17/08/1980,La Mure,12/07/2004,6
+1197,Rob Todd,19/04/1971,Auckland,12/07/2004,6
+1198,Scott Benton,08/09/1974,Bradford,15/07/2004,9
+1199,Sililo Martens,27/04/1977,Auckland,25/07/2004,71
+1200,Jason Duffy,09/12/1985,MAnchester,17/01/2005,100
+1201,Nick Royle,25/09/1983,Manchester,11/02/2005,100
+1202,Matt Riley,18/06/1986,Whiston,20/02/2005,100
+1203,Marc Jones,03/04/1987,Pontypridd,12/03/2005,100
+1204,David Tait,05/10/1987,Sale,22/03/2005,100
+1205,Ignacio Fernandez Lobbe,20/11/1974,Buenos Aires,01/05/2005,72
+1206,Mark Taylor,27/02/1973,Blaenavon,22/05/2005,38
+1207,Daniel Larrechea,09/07/1977,Bayonne,31/05/2005,80
+1208,David Blair,14/07/1985,Edinburgh,01/06/2005,25
+1209,Eifion Lewis-Roberts,13/02/1981,St Asaph,01/06/2005,100
+1210,Ben Coutts,15/08/1979,Canberra,12/06/2005,67
+1211,Steve Booth,19/09/1976,Pontefract,15/06/2005,5
+1212,Michael Hills,26/11/1976,Montauban,19/06/2005,55
+1213,Michael Hills,11/06/1985,Doncaster,02/07/2005,15
+1214,John Payne,01/02/1980,Manly,07/07/2005,45
+1215,Nathan Bonner-Evans,27/10/1978,Swansea,12/07/2005,18
+1216,Elvis Sevealii,20/06/1978,Wellington,12/07/2005,18
+1217,Oriol Ripol Fortuny,06/09/1975,Barcelona,12/07/2005,14
+1218,Mike Hills,11/06/1985,Doncaster,14/07/2005,15
+1219,Valentin Courrent,16/08/1982,Bondy,24/07/2005,75
+1220,Epi Taione,02/03/1979,Tonga,25/07/2005,8
+1221,Neil Briggs,01/06/1985,Germany,26/07/2005,14
+1222,Will Cliff,17/10/1988,Macclesfield,25/03/2006,100
+1223,Chris Bell,07/01/1983,Plymouth,29/05/2006,9
+1224,Pierre Gaona,11/06/1980,Saint Jean de Luz,01/06/2006,49
+1225,Andy Vilk,11/06/1981,Hammersmith,13/06/2006,11
+1226,Lee Thomas,02/06/1984,Barry,15/06/2006,23
+1227,Ben Evans,31/07/1975,Cardiff,17/06/2006,23
+1228,Juan Martin Fernandez Lobbe,19/11/1981,Buenos Aires,07/07/2006,62
+1229,Rob O'Donnell,15/12/1985,Liverpool,13/07/2006,100
+1230,Genaro Fessia,22/07/1981,Cordoba,27/01/2007,100
+1231,Chris Leck,21/05/1986,Manchester,15/02/2007,100
+1232,Tom Holmes,05/01/1990,Manchester,24/03/2007,100
+1233,Scott Lawson,28/09/1981,Lanark,25/04/2007,16
+1234,Geraint Rhys Jones,23/08/1987,Abergavenny,16/05/2007,100
+1235,Brent Cockbain,15/11/1974,Coffs Harbour,27/05/2007,18
+1236,Luke McAlister,28/08/1983,Waitara,12/06/2007,39
+1237,Rory Lamont,10/10/1982,Perth,13/06/2007,16
+1238,Rudi Keil,08/12/1977,Johannesburg,15/07/2007,6
+1239,Julien Laharrague,29/07/1978,Tarbes,18/07/2007,31
+1240,Matt Sturges,06/10/1998,Preston,14/08/2017,100
+1241,Matt Postlethwaite,01/10/1996,Steeton,14/08/2017,100
+1243,James Gaskell,20/05/1990,Crewe,19/01/2008,100
+1244,Dave Ward,21/05/1985,Bath,13/05/2008,11
+1245,Anitelea Tuilagi,05/06/1986,Samoa,26/05/2008,9
+1246,Dwayne Peel,31/01/1981,Carmathen,29/05/2008,38
+1247,Nick Macleod,23/03/1983,Cardiff,13/06/2008,23
+1248,Kris Ormsby,12/04/1980,Auckland,15/06/2008,70
+1249,Andy Tuilagi,05/06/1986,Apia,29/06/2008,9
+1250,Kristian Ormsby,12/04/1980,Auckland,12/07/2008,48
+1251,David Doherty,28/01/1987,Leeds,13/07/2008,3
+1252,Luke Abraham,26/09/1983,Leicster,15/07/2008,4
+1253,Mathew Tait,06/02/1986,Shotley Bridge,24/08/2008,8
+1254,Tom Brady,10/02/1991,Urmston,13/09/2008,100
+1255,Ross Davies,25/03/1984,Newport,13/09/2008,56
+1256,Mark Atkinson,08/03/1990,Knowsley,11/11/2008,100
+1257,Carl Fearns,28/05/1989,Liverpool,12/12/2008,100
+1258,Lee Imiolek,21/09/1990,Manchester,18/03/2009,100
+1259,David Seymour,27/09/1984,High Wycombe,22/05/2009,2
+1260,Ed Styles,07/12/1989,Stockport,05/06/2009,100
+1261,Mo Schwalger,15/09/1978,Apia,17/06/2009,48
+1262,Carlos Ignacio Fernández Lobbe,20/11/1974,Buenos Aires,19/06/2009,11
+1263,Sisa Koyamaibole,06/03/1981,Suva,15/07/2009,51
+1264,Ben Cohen,14/09/1978,Northampton,15/07/2009,75
+1265,Chris Brightwell,03/12/1984,Lower Hutt,07/08/2009,79
+1266,Gavin Kerr,03/04/1977,Newcastle Upon Tyne,25/07/2009,25
+1267,Marika Vakacegu,23/06/1981,Suva,29/07/2009,68
+1268,Jack Forster,19/03/1989,Wigan,06/03/2009,100
+1269,Fergus Mulchrone,23/12/1986,Manchester,06/03/2009,100
+1270,Dai Bishop,22/09/1986,Church Village,22/07/2009,18
+1271,Dan Birchall,02/10/1988,Manchester,09/01/2009,100
+1272,Daniel Hall,30/07/1991,Manchester,30/05/2009,100
+1273,Alex Cheesman,17/10/1988,London,01/07/2009,100
+1274,Henry Thomas,30/10/1991,Kingston Upon Thames,12/01/2010,100
+1275,Will Addison,20/08/1992,Penrith,02/02/2010,100
+1276,Rhys Crane,14/10/1985,Wolverhampton,06/02/2010,100
+1277,Karena Wihongi,29/09/1979,New Zealand,06/05/2010,76
+1278,Kyle Tonetti,08/10/1987,Durban,12/05/2010,17
+1279,Tommy Bell,11/11/1992,Plymouth,13/05/2010,100
+1280,Asaeli Boko,16/09/1981,Fiji,05/06/2010,100
+1281,Wame Lewaravu,24/09/1983,Fiji,12/06/2010,59
+1282,Paul Williams,22/04/1983,Auckland,13/06/2010,39
+1283,Ben Roberts,22/04/1988,Brynwarr,17/06/2010,100
+1284,Jordan Davies,12/03/1990,Bolton,17/06/2010,100
+1285,Neil McMillan,15/05/1981,Belfast,19/06/2010,24
+1286,Ian Kench,07/12/1986,Chesterfield,01/07/2010,100
+1287,Apolosi Satala,14/08/1978,Fiji,09/07/2010,6
+1288,Rob Miller,05/08/1989,Carlisle,25/07/2010,8
+1289,Jonny Kennedy,16/02/1990,MAnchester,20/08/2010,100
+1290,Aston Croall,10/07/1984,Isle Of Sheppey,10/07/2010,24
+1291,Nic Rouse,10/02/1981,Chatham,07/07/2010,89
+1292,Mikaele Pesamino,02/04/1984,Vailele,15/07/2010,39
+1293,Matty James,01/10/1987,Steeton,28/06/2010,106
+1294,Dafydd James,24/07/1975,Mufulira,01/07/2010,23
+1295,Nathan Fowles,08/04/1993,Rochdale,12/02/2011,100
+1296,Will Bordill,24/05/1993,Sandbach,15/02/2011,100
+1297,Dan Bibby,06/02/1991,Aspull,12/03/2011,100
+1298,Simon McIntyre,19/03/1991,Manchester,31/03/2011,100
+1299,Tommy Taylor,11/11/1991,Macclesfield,17/04/2011,100
+1300,Onosai Tololima-Auvaa,07/02/1985,Auckland,10/05/2011,39
+1301,Ross Harrison,03/09/1992,Bolton,14/05/2011,100
+1302,Sam Tuitupou,01/02/1982,Auckland,16/05/2011,26
+1303,Richie Vernon,07/07/1987,Dundee,22/05/2011,16
+1304,Iain Thornley,11/09/1991,Wigan,25/05/2011,41
+1305,Tasesa Lavea,10/01/1980,Taihape,29/05/2011,53
+1306,Alasdair Dickinson,11/09/1983,Dundee,03/06/2011,6
+1307,Joaquín Tuculet,08/08/1989,La Plata,13/06/2011,34
+1308,Cillian Willis,19/01/1985,Dublin,19/06/2011,17
+1309,Alex Allan,29/02/1992,Harrogate,05/07/2011,66
+1310,Andy Powell,23/08/1981,Brecon,12/07/2011,3
+1311,Vadim Cobîla,30/07/1983,Soroca,13/07/2011,57
+1312,Andrei Ostrikov,02/07/1987,Moscow,01/08/2011,81
+1313,Johnny Leota,21/01/1984,Palmerston North,11/08/2011,65
+1314,Mark Easter,19/10/1982,Swaziland,15/07/2011,11
+1315,Kearnan Myall,15/12/1986,Huddersfield,01/07/2011,9
+1316,Hendre Foure,19/09/1979,Burgersdrop,01/07/2011,9
+1317,Billy Emerson,11/10/1992,Stockport,01/07/2011,100
+1318,Charlie Amesbury,08/04/1986,Portsmouth,01/07/2011,8
+1319,Andrew Higgins,13/07/1981,Epping,01/07/2011,13
+1320,Joe Ward,03/06/1980,Dannevirke,04/01/2011,3
+1321,Fraser McKenzie,28/03/1988,Dunfermiline,04/01/2011,25
+1322,Scott Mathie,01/02/1983,Durban,04/01/2011,9
+1323,Mark Jennings,27/02/1993,Namibia,02/01/2012,100
+1324,Dan Braid,23/02/1981,Tauranga,12/05/2012,39
+1325,Josh Beaumont,24/03/1992,Blackpool,12/06/2012,100
+1326,Cameron Shepherd,30/03/1984,Windsor,15/06/2012,44
+1327,Danny Cipriani,02/11/1987,Roehampton,15/07/2012,58
+1328,Richie Gray,24/08/1989,Glasgow,15/08/2012,16
+1329,James Flynn,05/10/1993,Sale,12/02/2012,100
+1330,Sam James,03/07/1994,Manchester,15/02/2012,100
+1331,Charlie Ingall,19/07/1989,Hillingdon,30/06/2012,3
+1332,Tom Cruse,30/03/1989,Stockport,01/07/2012,100
+1333,Luther Burrell,06/12/1987,Huddersfield,01/07/2012,9
+1334,Corne Uys,02/10/1981,Alberton,04/01/2012,8
+1335,James Doyle,19/07/1991,Auckland,01/07/2012,35
+1336,Mike Haley,28/06/1994,Preston,02/01/2013,100
+1337,James Mitchell,11/02/1995,Maidstone,25/01/2013,100
+1338,Joe Ford,04/06/1990,Oldham,01/06/2013,9
+1339,Mikaele Pesamino,08/08/1995,Bury,15/06/2013,100
+1340,Michael Paterson,09/05/1985,Christchurch,12/07/2013,23
+1341,Cameron Neild,06/09/1994,Manchester,07/06/2013,40
+1342,George Nott,26/01/1996,Bodelwyddan,22/03/2013,100
+1343,Jonathan Mills,12/02/1984,Wales,03/07/2013,59
+1344,Tom Arscott,25/08/1987,Plymouth,21/03/2013,59
+1345,Andy Forsyth,09/09/1990,Clayton West,15/07/2013,89
+1346,Viliami Fihaki,17/01/1987,Nuku'alofa,15/06/2013,35
+1347,Andy Hughes,27/06/1995,Manchester,01/07/2013,100
+1348,Kirill Kulemin,13/10/1980,Moscow,04/01/2013,59
+1349,Phil Mackenzie,25/02/1987,Oakville,01/07/2013,59
+1350,Luke McLean,29/06/1987,Townsville,12/05/2014,37
+1351,Alberto De Marchi,13/03/1986,Jesolo,25/06/2014,37
+1352,Magnus Lund,25/06/1983,Manchester,12/07/2014,40
+1353,Chris Cusiter,13/06/1982,Aberdeen,13/07/2014,16
+1354,Shalva Mamukashvili,02/10/1990,Tibilisi,15/08/2014,115
+1355,Nathan Hines,29/03/1976,Wagga Wagga,15/01/2014,114
+1356,John O'Donnell,24/06/1993,Wigan,30/06/2014,100
+1357,Darren Fearn,17/12/2008,Scarborough,01/05/2014,2
+1358,Nick Scott,13/06/1990,Hereford,01/09/2014,100
+1359,Tim Jeffers,22/09/1994,Warrington,30/06/2014,100
+1360,Daniel Baines,04/08/1986,Manchester,01/07/2013,100
+1361,Daniel Baines,04/08/1986,Manchester,01/07/2013,100
+1362,TJ Ioane,09/05/1989,Samoa,07/01/2015,65
+1363,Peter Stringer,13/12/1977,Cork,15/06/2015,5
+1364,Neil Briggs,01/06/1985,Germany,15/07/2015,4
+1365,Ciaran Parker,05/10/1995,Stckport,01/10/2015,100
+1366,Bryn Evans,28/10/1984,Hastings,07/06/2015,40
+1367,Brian Mujati,24/09/1984,Bulawayo,30/06/2015,77
+1368,Jake Pope,20/08/1997,Burnley,30/06/2015,100
+1369,Nev Edwards,22/11/1987,London,30/09/2015,100
+1370,Max Cobilas,13/07/1981,Epping,04/01/2015,100
+1371,Tom Curry,15/06/1998,Hounslow,08/03/2016,100
+1372,Ben Curry,15/06/1998,Hounslow,08/03/2016,100
+1373,Denny Solomona,27/09/1993,Auckland,28/04/2016,73
+1374,Josh Charnley,26/06/1991,Chorley,03/07/2016,41
+1375,Laurence Pearce,03/12/1990,Grantham,26/07/2016,4
+1376,Rob Webber,01/08/1986,York,01/02/2016,5
+1377,AJ Macginty,26/02/1990,Dublin,13/05/2016,20
+1378,Byron McGuigan,20/08/1989,Walvis Bay,27/07/2016,13
+1379,Paolo Odogwu,18/02/1997,Coventry,03/07/2016,4
+1380,Nic Dolly,11/06/1999,Sydney,14/12/2016,100
+1381,Curtis Langdon,03/08/1997,Weston Super Mare,10/08/2016,7
+1382,Halani Aulika,31/08/1983,Tonga,01/07/2016,7
+1383,Sam Bedlow,08/08/1995,Rossendale,03/07/2016,100
+1384,Laurence Pearce,03/12/1990,Grantham,03/06/2016,4
+1385,Dan Mugford,09/10/1991,Plymouth,21/04/2016,89
+1386,Lou Reed,10/09/1987,Treorchy,15/06/2016,23
+1387,Teddy Leatherbarrow,23/02/2000,Chester,15/06/2016,100
+1388,Kieran Longbottom,20/12/1985,Perth,30/06/2016,2
+1389,Mike Phillips,29/08/1982,Carmarthen,30/06/2016,77
+1390,Tom Morton,10/10/1995,Stockport,30/06/2016,100
+1391,Matthew Rogerson,29/06/1993,Lancaster,01/07/2016,100
+1392,Sam Moore,09/09/1998,Cardiff,04/02/2017,100
+1393,Cameron Redpath,23/02/1999,Narbonne,03/03/2017,100
+1394,Willgriff John,04/12/1992,Plymouth,06/06/2017,15
+1395,Jono Ross,27/10/1990,Sandton,11/04/2017,84
+1396,Josh Strauss,23/10/1986,Belville,28/02/2017,16
+1397,James O'Connor,05/07/1990,Southport,26/07/2017,51
+1398,Faf De Klerk,19/10/1991,Nelspruit,25/07/2017,104
+1399,Alexandru Tarus,09/09/1989,Brasov,10/04/2017,47
+1400,Marland Yarde,20/04/1992,Castries,30/10/2017,24
+1401,Arron Reed,10/07/1999,Chester,26/07/2017,100
+1402,Luke James,18/03/1999,Mancester,26/07/2017,100
+1403,Sam Dugdale,30/09/1999,Lancaster,25/07/2017,100
+1404,Kieran Wilkinson,03/10/1999,Blackpool,25/07/2017,100
+1405,Connor Doherty,18/07/2000,Manchester,25/07/2017,100
+1406,Ciaran Booth,04/05/2000,Stockport,25/07/2017,100
+1407,Bevan Rodd,26/08/2000,Dunoon,25/07/2017,100
+1408,Rouban Birch,20/09/1999,Stockport,18/10/2017,100
+1409,Diogo Ferreira,17/10/1995,Haas,01/01/2017,100
+1410,Cal Ford,03/07/2000,Crewe,01/01/2017,100
+1411,Tom Bristow,16/08/1991,Hong Kong,09/10/2018,28
+1412,Jean Luc Du Preez,05/08/1995,Durban,15/11/2018,105
+1413,Chris Ashton,29/03/1987,Wigan,03/07/2018,51
+1414,Rob Du Preez,30/07/1993,Durban,29/10/2018,105
+1415,Joe Jones,24/06/1995,Mold,12/03/2018,31
+1416,Valery Morozov,21/09/1994,Moscow,12/12/2018,92
+1417,Rohan Janse Van Rensburg,11/09/1994,Welkom,25/01/2018,104
+1418,James Phillips,27/09/1989,Bristol,15/03/2018,5
+1419,Gus Warr,24/09/1999,Manchester,18/10/2018,100
+1420,Ewan Ashman,03/04/2000,Toronto,01/11/2018,100
+1421,Tom Roebuck,07/01/2001,Inverness,30/06/2018,100
+1422,Joe Carpenter,02/04/1998,Wolverhampton,19/11/2018,9
+1423,Nathan Pope,20/08/1997,Douglas,12/01/2018,100
+1424,Tom Curtis,01/07/2001,Wythenshawe,27/01/2018,100
+1425,Jake Cooper-Woolley,18/11/1989,Reigate,01/07/2019,3
+1426,Rob du Preez,30/07/1993,Durban,01/07/2019,105
+1427,Akker van der Merwe,17/06/1991,Vanderbijlpark,01/07/2019,105
+1428,Lood de Jager,07/12/1992,Alberton,01/07/2019,112
+1429,Coenie Oosthuizen,22/03/1989,Potchefstroom,01/07/2019,105
+1430,Dan du Preez,05/08/1995,Durban,01/07/2019,105
+1431,Jean-Luc du Preez,05/08/1995,Durban,01/07/2019,105
+1432,Simon Hammersley,20/03/1993,Hull,01/07/2019,8
+1433,Mark Wilson,08/10/1989,Kendal,01/07/2019,8
+1434,James Williams,30/11/2001,Hartbury,30/07/2019,10
+1435,Embrose Papier,27/04/1997,Clanwilliam,17/09/2019,112
+1436,Ben Carlile,05/10/1999,Cottingham,15/01/2020,9
+1437,Manu Tuilagi,18/05/1991,Fogapoa,13/07/2020,4
+1438,Sam Hill,01/07/1993,Exeter,13/03/2020,13
+1439,Terry Sigley,12/10/1978,Birmingham,03/06/2007,5
+1440,Mark Tinnock,15/07/1968,Christchurch,03/06/2007,121
+1441,Duncan Bell,01/10/1974,Kings Lynn,03/06/1997,67
+1442,Simon Mills,28/10/1978,Pembury,03/06/1998,100
+1444,Dylan O'Grady,19/11/1971,Manchester,03/06/1997,100
+1445,David Rees,15/10/1974,Kingston-upon-Thames,03/06/1997,100
+1446,Rafi Quirke,18/08/2001,Manchester,03/06/2019,100
+1447,Murray Driver,05/04/1972,Hamilton,03/06/1997,100
+1448,Mike Armstrong,27/06/1971,Carlisle,03/06/1998,100
+1449,James Hoyle,04/03/1985,Weymouth,03/06/2003,100
+1450,Jan Machacek,15/02/1972,Prague,03/06/1998,21
+1451,Shane Howarth,08/07/1968,Auckland,03/06/1997,39
+1452,Cobus Wiese,02/06/1997,Upington,07/09/2020,43
+1453,Mark Simpson-Daniel,11/02/1985,Yarm,01/01/2004,100
+1454,Lionel Faure,26/11/1978,Yarm,01/07/2005,55
+1455,Kevin Ellis,25/05/1965,Bridgend,01/07/1997,122
+1456,Leslie Bone,03/04/1976,Bridgend,01/07/2001,100
+2439,Andy Blyth,02/10/1975,Hexham,01/07/1998,100
+2440,Andy Titterrell,10/01/1981,Dartford,01/07/2000,100
+2441,Barrie-Jon Mather,15/01/1973,Blackpool,01/07/1998,73
+2442,Charles Vyvyan,01/09/1965,Dartford,01/07/1997,100
+2443,Chris Briers,01/09/1983,Manchester,01/07/2003,100
+2444,Charl Marais,02/09/1970,Bothaville,01/07/2001,123
+2445,Steve Diamond,03/02/1968,Chatham,01/07/1989,100
+2446,Stuart Pinkerton,23/03/1973,Sydney,01/07/2001,45
+2447,Christian Day,24/06/1983,Blackpool,03/06/2002,100
+2453,Richard Smith,06/06/1973,Pontypool,01/07/1996,63
+2456,Chris Murphy,02/02/1976,Beverley,10/06/1996,100
